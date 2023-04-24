@@ -1,1 +1,3 @@
 git es un un controlador deversiones
+
+git es un controlador de versiones que trabaja a la mano con GitHub para alojar repositorios.
